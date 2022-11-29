@@ -1,0 +1,7 @@
+x = Instance.new("Part", game.Workspace)
+x.CFrame = CFrame.new(69.94895935058594, -158.21994018554688, -146.76841735839844)
+x.Anchored = true
+x.Size = Vector3.new(2,2,2)
+x.Rotation = Vector3.new(0, 0, 0)
+x.Color = Color3.new(1.0, 0.023529, 0.023529)
+x.Material = "DiamondPlate"
