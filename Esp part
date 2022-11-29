@@ -1,0 +1,11 @@
+for i,v in pairs(thepath:GetDescendants()) do
+if v:IsA("Part") then
+local ESP = Instance.new("Highlight")
+ESP.Name = v.Name
+ESP.FillTransparency = 0
+ESP.OutlineTransparency = 0
+ESP.FillColor = Color3.new(0, 0, 0)
+ESP.OutlineColor = Color3.fromRGB(255, 255, 255)
+ESP.Parent = thepath --add the path 
+end
+end
