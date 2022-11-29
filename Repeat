@@ -1,0 +1,4 @@
+while true do
+--set script
+wait(1) --time for repeat
+end
